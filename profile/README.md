@@ -1,7 +1,7 @@
 <!----- Picture & Links ----->
 
 <p id="profile-picture" align="center">
-  <img width=40% src="https://github.com/ubcuas/.github/blob/master/profile/profile.png" alt="Profile Picture">
+  <img width=40% src="https://github.com/ubcuas/.github/blob/master/profile/logo.png" alt="Profile Picture">
 </p>
 
 <div id="badges" align="center">
