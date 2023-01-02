@@ -1,7 +1,7 @@
 <!----- Picture & Links ----->
 
 <p id="profile-picture" align="center">
-  <img width=40% src="https://github.com/ubcuas/.github/profile/profile.png" alt="Profile Picture">
+  <img width=40% src="https://github.com/ubcuas/.github/blob/master/profile/profile.png" alt="Profile Picture">
 </p>
 
 <div id="badges" align="center">
@@ -25,6 +25,8 @@ The University of British Columbia Uncrewed Aircraft Systems engineering student
 UBC UAS provides our members with a chance to follow their passion for unmanned aviation and its applications. Positions and projects within the team range from aircraft design to network communications to image processing. Additionally, our team works closely with multiple faculty, industry, and government representatives to provide a wide range of educational and fun experiences for team members. This includes flight training, ground school, and chances to work with professors and research students. Check out [our website](https://ubcuas.com) if you are interested in joining!
 
 ---
+
+<!----- Software Project Information ----->
 
 ## Software
 You can find all of our current and past software projects here on GitHub. This mainly includes projects from the Software subteam but there are also some from Payload and Aircraft. A description of each project can be found within their respective repositories.
