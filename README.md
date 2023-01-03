@@ -1,2 +1,2 @@
 ## Public Organization Profile
-Check out the [README.md](/profile/README.md)!
+Check out the [`README.md`](/profile/README.md)!
